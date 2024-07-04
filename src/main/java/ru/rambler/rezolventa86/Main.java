@@ -1,6 +1,6 @@
 package ru.rambler.rezolventa86;
 
-private static String msg = "Hello world! I am Albina";
+private static String msg = "Hello world!! I'm Albina";
 
 public class Main {
     public static void main(String[] args) {
